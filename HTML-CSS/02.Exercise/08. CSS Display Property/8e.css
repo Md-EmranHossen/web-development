@@ -1,11 +1,10 @@
+p {
+  font-family: Arial;
+}
 
 .title {
-  font-family: Arial;
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-weight: bold;
-  color: black;
-  font-size: 30px;
+  font-size: 40px;
+  margin-bottom: 25px;
 }
 
 input {
@@ -21,15 +20,8 @@ input {
   width: 400px;
 }
 
-.text-box {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  background-color: rgba(163, 159, 159, 0.25);
-  border: none;
-  width: 300px;
-  display: block;
-  border-radius: 5px;
-  margin-bottom: 10px;
+.destination-textbox {
+  margin-bottom: 35px;
 }
 
 .request-button {
@@ -44,13 +36,12 @@ input {
   margin-right: 20px;
 }
 
-.Schedule-button {
+.schedule-button {
   background-color: rgb(240, 240, 240);
-  color: black;
+  border: none;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-right: 25px;
   padding-left: 25px;
-  cursor: pointer;
-  border: none;
+  padding-right: 25px;
+  font-size: 16px;
 }

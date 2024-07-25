@@ -1,17 +1,18 @@
 p {
-  font-family: arial;
+  font-family: Arial;
+  text-align: center;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.tittle {
-  margin-top: 20px;
+.title {
   font-size: 28px;
   font-weight: bold;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
-.subtittle {
+.subtitle {
   margin-bottom: 20px;
 }
 

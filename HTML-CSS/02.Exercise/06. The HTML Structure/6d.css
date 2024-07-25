@@ -1,16 +1,16 @@
-p{
+p {
+  font-family: Montserrat;
+  text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  text-align: center;
-  font-family: Montserrat;
 }
 
-.model{
-  font-size: 32px;
+.title {
+  font-size: 35px;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
-.delevery{
+.underlined {
   text-decoration: underline;
 }
