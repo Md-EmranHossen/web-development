@@ -1,0 +1,33 @@
+What is JavaScript?
+A Technology that we use to create website.
+-Giveng instructions to a computer.
+-the computer follows our instructions
+
+There are three Technology to create a website.
+1.HTML
+2.CSS
+3.JavaScript
+
+HTML Create the content of the website.It create buttons,text and images.
+CSS Changes the apparance of the website.By adding css we can make our website looks nice.
+JavaScript Makes our website interective.
+
+opne this link:
+https://supersimple.dev/js-basics/
+
+write on the console tab and give some instructions
+
+JavaScript can create popup:
+alert('hello');
+alert('Good Job!');
+
+
+JavaScript can do Math openrations:
+2 + 2  => Press Enter
+10-3   => Press Enter
+
+
+Note: JavaScript is case sensitive.
+
+JavaScript can use to modify the page
+document.body.innerHTML = 'hello';
